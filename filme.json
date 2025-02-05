@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1724284275708.jpeg",
+    "nome": "O corvo",
+    "genero": "Ação/Fantasia",
+    "classificacao": "14 anos",
+    "descricao": "As almas gêmeas Eric Draven e Shelly Webster são brutalmente assassinadas quando os demônios de seu passado sombrio os alcançam. Atravessando os mundos dos vivos e dos mortos, Draven retorna em busca de vingança sangrenta contra os assassinos.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1724284275708.jpeg"
+  },
+  {
+    "id": "1724702617340.jpg",
+    "nome": "Alien: Romulus",
+    "genero": "Terror/Ficção científica",
+    "classificacao": "16 anos",
+    "descricao": "Um grupo de jovens colonizadores espaciais se aventuram nas profundezas de uma estação espacial abandonada. Lá, eles descobrem uma forma de vida aterrorizante, forçando-os a lutar por sua sobrevivência.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1724702617340.jpg"
+  },
+  {
+    "id": "1738711413506.jpg",
+    "nome": "The Blackening",
+    "genero": " Terror/Comédia",
+    "classificacao": "16 anos",
+    "descricao": "Um grupo de amigos da faculdade faz uma viagem de fim de semana para uma cabana remota. Mas eles são atacados por uma figura misteriosa que os força a entrar em seus jogos doentios. Assim, todos são forçados a lutar por suas vidas.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738711413506.jpg"
+  },
+  {
+    "id": "1738711943738.png",
+    "nome": "Frio nos Ossos",
+    "genero": "Terror/Crime",
+    "classificacao": "16 anos",
+    "descricao": "Uma mãe, seu marido deficiente e sua filha adolescente têm seu cotidiano perturbado quando dois criminosos em fuga tentam se refugiar em sua casa. No entanto, mal sabem eles dos segredos sombrios que aquela casa esconde.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738711943738.png"
+  },
+  {
+    "id": "1738712114869.jpeg",
+    "nome": "O Esquadrão Suicida",
+    "genero": "Ação/Comédia",
+    "classificacao": "16 anos",
+    "descricao": "O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738712114869.jpeg"
+  },
+  {
+    "id": "1738712266316.jpg",
+    "nome": "Nunca Mais",
+    "genero": "Thriller/Ação",
+    "classificacao": "14 anos",
+    "descricao": "A garçonete Slim tem sua vida transformada ao se casar com o rico empreiteiro Mitch. Em sua nova vida suburbana, ela parece ter tudo o que deseja. No entanto, seu sonho sofre um revés quando ela descobre que não tem o marido perfeito que pensava. O comportamento abusivo e cada vez mais obsessivo de Mitch força Slim a fugir.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738712266316.jpg"
+  },
+  {
+    "id": "1738712553597.jpg",
+    "nome": "O Dublê",
+    "genero": "Ação/Comédia",
+    "classificacao": "14 anos",
+    "descricao": "O dublê Colt Seavers volta à ação quando uma estrela de cinema desaparece de repente. À medida que o mistério se aprofunda, Colt se envolve em uma trama sinistra que o leva à beira de uma queda mais perigosa do que qualquer uma de suas acrobacias.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738712553597.jpg"
+  },
+  {
+    "id": "1738712670748.jpg",
+    "nome": "Operação Natal",
+    "genero": "Ação/Comédia",
+    "classificacao": "12 anos",
+    "descricao": "Um vilão sequestra o Papai Noel do Polo Norte e um agente E.L.F. (Extremamente Grande e Formidável) une forças com o rastreador mais habilidoso do mundo para encontrá-lo e salvar o Natal.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738712670748.jpg"
+  },
+  {
+    "id": "1738712810389.jpg",
+    "nome": "Covil de Ladrões",
+    "genero": "Ação/Crime",
+    "classificacao": "14 anos",
+    "descricao": "Em Los Angeles, uma saga de crimes coloca em intersecção a vida de dois grupos: a unidade de elite do departamento de polícia local e a equipe de assaltantes de banco mais bem sucedida do estado, formada por ex-militares que usam suas habilidades e experiências para infringir as leis. Os criminosos planejam um roubo que aparentemente é impossível, em um banco localizado no centro da cidade.",
+    "idioma": "Legendado e Dublado",
+    "imagem": "1738712810389.jpg"
+  }
+]
