@@ -1,7 +1,9 @@
 {
-  "scripts": {
-    "start": "npm run server"
-  },
+    "scripts": {
+      "start": "npm run server",
+      "server": "node server.js"
+    },
+  
 
   "dependencies": {
     "express": "^4.19.2",
