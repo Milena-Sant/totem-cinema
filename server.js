@@ -3,7 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const multer = require('multer');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;  // Usa a variável de ambiente PORT ou 3000 como fallback
+
 // Configuração do multer para armazenamento de arquivos
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
@@ -13,7 +14,11 @@ const storage = multer.diskStorage({
         cb(null, Date.now() + path.extname(file.originalname)); 
     }
 });
-const upload = multer({ storage: storage });
+const upload = multer({ 
+    storage: storage,
+    limits: { fileSize: 10 * 1024 * 1024 }  // Limite de 10MB por arquivo
+});
+
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.json());
